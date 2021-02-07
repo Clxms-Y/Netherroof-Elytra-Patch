@@ -1,0 +1,8 @@
+name: ElytraRoofPatch
+version: 1.0-SNAPSHOT
+main: elytraroofpatch.elytraroofpatch.ElytraRoofPatch
+api-version: 1.13
+authors: [Clumsy]
+commands:
+  ep:
+    description: Main command
